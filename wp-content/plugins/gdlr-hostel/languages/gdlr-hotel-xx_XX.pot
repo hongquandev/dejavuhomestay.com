@@ -1,0 +1,1182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Goodlayers Hotel\n"
+"POT-Creation-Date: 2015-06-10 13:03+0700\n"
+"PO-Revision-Date: 2015-06-10 13:03+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\hotelmaster\\wp-content\\plugins\\gdlr-"
+"hotel\\\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: framework/gdlr-coupon-option.php:18 framework/gdlr-coupon-option.php:19
+#: framework/gdlr-coupon-option.php:30
+msgid "Coupon"
+msgstr ""
+
+#: framework/gdlr-coupon-option.php:20 framework/gdlr-room-option.php:30
+msgid "Add New"
+msgstr ""
+
+#: framework/gdlr-coupon-option.php:21
+msgid "Add New Coupon"
+msgstr ""
+
+#: framework/gdlr-coupon-option.php:22
+msgid "Edit Coupon"
+msgstr ""
+
+#: framework/gdlr-coupon-option.php:23
+msgid "New Coupon"
+msgstr ""
+
+#: framework/gdlr-coupon-option.php:24
+msgid "All Coupon"
+msgstr ""
+
+#: framework/gdlr-coupon-option.php:25
+msgid "View Coupon"
+msgstr ""
+
+#: framework/gdlr-coupon-option.php:26
+msgid "Search Coupon"
+msgstr ""
+
+#: framework/gdlr-coupon-option.php:27
+msgid "No coupon found"
+msgstr ""
+
+#: framework/gdlr-coupon-option.php:28
+msgid "No coupon found in Trash"
+msgstr ""
+
+#: framework/gdlr-coupon-option.php:71
+msgid "Goodlayers Coupon Option"
+msgstr ""
+
+#: framework/gdlr-coupon-option.php:80 framework/gdlr-room-option.php:137
+msgid "Page Layout"
+msgstr ""
+
+#: framework/gdlr-coupon-option.php:83 include/gdlr-booking-item.php:297
+msgid "Coupon Code"
+msgstr ""
+
+#: framework/gdlr-coupon-option.php:88
+msgid "Coupon Amount"
+msgstr ""
+
+#: framework/gdlr-coupon-option.php:91
+msgid "Fill -1 for unlimited uses"
+msgstr ""
+
+#: framework/gdlr-coupon-option.php:94
+msgid "Coupon Expiry"
+msgstr ""
+
+#: framework/gdlr-coupon-option.php:98
+msgid "Coupon Discount Type"
+msgstr ""
+
+#: framework/gdlr-coupon-option.php:101
+msgid "Percent"
+msgstr ""
+
+#: framework/gdlr-coupon-option.php:102
+msgid "Amount"
+msgstr ""
+
+#: framework/gdlr-coupon-option.php:106
+msgid "Coupon Discount Amount"
+msgstr ""
+
+#: framework/gdlr-coupon-option.php:108
+msgid "Only number is allowed here"
+msgstr ""
+
+#: framework/gdlr-coupon-option.php:111
+msgid "Apply only to specific room ( room id separated by comma )"
+msgstr ""
+
+#: framework/gdlr-room-option.php:28 framework/gdlr-room-option.php:40
+#: include/gdlr-reservation-bar.php:318
+msgid "Rooms"
+msgstr ""
+
+#: framework/gdlr-room-option.php:29 framework/gdlr-room-option.php:347
+#: framework/gdlr-transaction.php:138 framework/gdlr-transaction.php:386
+#: include/gdlr-reservation-bar.php:81 include/gdlr-reservation-bar.php:230
+#: include/gdlr-reservation-bar.php:327
+msgid "Room"
+msgstr ""
+
+#: framework/gdlr-room-option.php:31
+msgid "Add New Room"
+msgstr ""
+
+#: framework/gdlr-room-option.php:32
+msgid "Edit Room"
+msgstr ""
+
+#: framework/gdlr-room-option.php:33
+msgid "New Room"
+msgstr ""
+
+#: framework/gdlr-room-option.php:34
+msgid "All Rooms"
+msgstr ""
+
+#: framework/gdlr-room-option.php:35
+msgid "View Room"
+msgstr ""
+
+#: framework/gdlr-room-option.php:36
+msgid "Search Room"
+msgstr ""
+
+#: framework/gdlr-room-option.php:37
+msgid "No rooms found"
+msgstr ""
+
+#: framework/gdlr-room-option.php:38
+msgid "No rooms found in Trash"
+msgstr ""
+
+#: framework/gdlr-room-option.php:61
+msgid "Room Categories"
+msgstr ""
+
+#: framework/gdlr-room-option.php:62
+msgid "Room Category"
+msgstr ""
+
+#: framework/gdlr-room-option.php:77
+msgid "Hotel Thumbnail"
+msgstr ""
+
+#: framework/gdlr-room-option.php:81
+msgid "Hotel Location"
+msgstr ""
+
+#: framework/gdlr-room-option.php:94
+msgid "Room Tags"
+msgstr ""
+
+#: framework/gdlr-room-option.php:95
+msgid "Room Tag"
+msgstr ""
+
+#: framework/gdlr-room-option.php:127
+msgid "Goodlayers Room Option"
+msgstr ""
+
+#: framework/gdlr-room-option.php:140
+msgid "Page Title"
+msgstr ""
+
+#: framework/gdlr-room-option.php:144
+msgid "Page Caption"
+msgstr ""
+
+#: framework/gdlr-room-option.php:148
+msgid "Header Background Image"
+msgstr ""
+
+#: framework/gdlr-room-option.php:149
+msgid "Upload"
+msgstr ""
+
+#: framework/gdlr-room-option.php:156
+msgid "Page Option"
+msgstr ""
+
+#: framework/gdlr-room-option.php:159
+msgid "Room Amount"
+msgstr ""
+
+#: framework/gdlr-room-option.php:163
+msgid ""
+"Number of room available on the same period of time. Only fill number here."
+msgstr ""
+
+#: framework/gdlr-room-option.php:166 include/gdlr-room-item.php:351
+msgid "Bed"
+msgstr ""
+
+#: framework/gdlr-room-option.php:170
+msgid "Max People"
+msgstr ""
+
+#: framework/gdlr-room-option.php:175 include/gdlr-room-item.php:369
+msgid "View"
+msgstr ""
+
+#: framework/gdlr-room-option.php:179 include/gdlr-room-item.php:378
+msgid "Room Size"
+msgstr ""
+
+#: framework/gdlr-room-option.php:183 include/gdlr-room-item.php:387
+msgid "Wifi"
+msgstr ""
+
+#: framework/gdlr-room-option.php:187 include/gdlr-room-item.php:396
+msgid "Breakfast Included"
+msgstr ""
+
+#: framework/gdlr-room-option.php:191 include/gdlr-room-item.php:405
+msgid "Room Service"
+msgstr ""
+
+#: framework/gdlr-room-option.php:195 include/gdlr-room-item.php:414
+msgid "Airport Pickup Service"
+msgstr ""
+
+#: framework/gdlr-room-option.php:199
+msgid "Room Base Price Weekday"
+msgstr ""
+
+#: framework/gdlr-room-option.php:202 framework/gdlr-room-option.php:208
+#: framework/gdlr-room-option.php:214 framework/gdlr-room-option.php:220
+#: framework/gdlr-room-option.php:226 framework/gdlr-room-option.php:232
+#: framework/gdlr-room-option.php:238 framework/gdlr-room-option.php:251
+#: framework/gdlr-room-option.php:257 framework/gdlr-room-option.php:263
+#: framework/gdlr-room-option.php:269 framework/gdlr-room-option.php:275
+#: framework/gdlr-room-option.php:281
+msgid "Only fill number here."
+msgstr ""
+
+#: framework/gdlr-room-option.php:205
+msgid "Room Base Price Weekend"
+msgstr ""
+
+#: framework/gdlr-room-option.php:211
+msgid "Room Base Price Number ( People )"
+msgstr ""
+
+#: framework/gdlr-room-option.php:217
+msgid "Adult Price Weekday"
+msgstr ""
+
+#: framework/gdlr-room-option.php:223
+msgid "Adult Price Weekend"
+msgstr ""
+
+#: framework/gdlr-room-option.php:229
+msgid "Children Price Weekday"
+msgstr ""
+
+#: framework/gdlr-room-option.php:235
+msgid "Children Price Weekend"
+msgstr ""
+
+#: framework/gdlr-room-option.php:243
+msgid "Special Season"
+msgstr ""
+
+#: framework/gdlr-room-option.php:248
+msgid "Special Season Room Base Price Weekday"
+msgstr ""
+
+#: framework/gdlr-room-option.php:254
+msgid "Special Season Room Base Price Weekend"
+msgstr ""
+
+#: framework/gdlr-room-option.php:260
+msgid "Special Season Adult Price Weekday"
+msgstr ""
+
+#: framework/gdlr-room-option.php:266
+msgid "Special Season Adult Price Weekend"
+msgstr ""
+
+#: framework/gdlr-room-option.php:272
+msgid "Special Season Children Price Weekday"
+msgstr ""
+
+#: framework/gdlr-room-option.php:278
+msgid "Special Season Children Price Weekend"
+msgstr ""
+
+#: framework/gdlr-room-option.php:285
+msgid "Thumbnail Type"
+msgstr ""
+
+#: framework/gdlr-room-option.php:288
+msgid "Feature Image"
+msgstr ""
+
+#: framework/gdlr-room-option.php:289 framework/gdlr-room-option.php:310
+msgid "Video"
+msgstr ""
+
+#: framework/gdlr-room-option.php:290 framework/gdlr-room-option.php:300
+#: framework/gdlr-room-option.php:311 framework/gdlr-room-option.php:327
+msgid "Slider"
+msgstr ""
+
+#: framework/gdlr-room-option.php:295 framework/gdlr-room-option.php:322
+msgid "Video Url"
+msgstr ""
+
+#: framework/gdlr-room-option.php:305
+msgid "Inside Room Thumbnail Type"
+msgstr ""
+
+#: framework/gdlr-room-option.php:308
+msgid "Same As Thumbnail Type"
+msgstr ""
+
+#: framework/gdlr-room-option.php:309
+msgid "Image"
+msgstr ""
+
+#: framework/gdlr-room-option.php:312
+msgid "Stack Images"
+msgstr ""
+
+#: framework/gdlr-room-option.php:317
+msgid "Image Url"
+msgstr ""
+
+#: framework/gdlr-room-option.php:349
+msgid "View all rooms"
+msgstr ""
+
+#: framework/gdlr-room-option.php:351
+msgid "Category"
+msgstr ""
+
+#: framework/gdlr-room-option.php:354
+msgid ""
+"You can use Ctrl/Command button to select multiple categories or remove the "
+"selected category. <br><br> Leave this field blank to select all categories."
+msgstr ""
+
+#: framework/gdlr-room-option.php:357
+msgid "Tag"
+msgstr ""
+
+#: framework/gdlr-room-option.php:360 framework/gdlr-room-option.php:439
+msgid "Will be ignored when the room filter option is enabled."
+msgstr ""
+
+#: framework/gdlr-room-option.php:363 framework/plugin-option.php:171
+msgid "Room Style"
+msgstr ""
+
+#: framework/gdlr-room-option.php:366
+msgid "Classic"
+msgstr ""
+
+#: framework/gdlr-room-option.php:367
+msgid "Modern"
+msgstr ""
+
+#: framework/gdlr-room-option.php:368
+msgid "Medium Thumbnail"
+msgstr ""
+
+#: framework/gdlr-room-option.php:372
+msgid "Room Carousel"
+msgstr ""
+
+#: framework/gdlr-room-option.php:377
+msgid "Room Column Size"
+msgstr ""
+
+#: framework/gdlr-room-option.php:384
+msgid "Num Fetch"
+msgstr ""
+
+#: framework/gdlr-room-option.php:387
+msgid "Specify the number of rooms you want to pull out."
+msgstr ""
+
+#: framework/gdlr-room-option.php:390
+msgid "Num Excerpt"
+msgstr ""
+
+#: framework/gdlr-room-option.php:396 framework/gdlr-room-option.php:449
+msgid "Thumbnail Size"
+msgstr ""
+
+#: framework/gdlr-room-option.php:399 framework/gdlr-room-option.php:452
+msgid "Only effects to <strong>standard and gallery post format</strong>"
+msgstr ""
+
+#: framework/gdlr-room-option.php:402
+msgid "Order By"
+msgstr ""
+
+#: framework/gdlr-room-option.php:405
+msgid "Publish Date"
+msgstr ""
+
+#: framework/gdlr-room-option.php:406
+msgid "Title"
+msgstr ""
+
+#: framework/gdlr-room-option.php:407
+msgid "Random"
+msgstr ""
+
+#: framework/gdlr-room-option.php:411
+msgid "Order"
+msgstr ""
+
+#: framework/gdlr-room-option.php:414
+msgid "Descending Order"
+msgstr ""
+
+#: framework/gdlr-room-option.php:415
+msgid "Ascending Order"
+msgstr ""
+
+#: framework/gdlr-room-option.php:419
+msgid "Enable Pagination"
+msgstr ""
+
+#: framework/gdlr-room-option.php:423 framework/gdlr-room-option.php:455
+#: include/page-builder-sync.php:14
+msgid "Margin Bottom"
+msgstr ""
+
+#: framework/gdlr-room-option.php:426 framework/gdlr-room-option.php:458
+#: include/page-builder-sync.php:17
+msgid "Spaces after ending of this item"
+msgstr ""
+
+#: framework/gdlr-room-option.php:432
+msgid "Room Category / Branches"
+msgstr ""
+
+#: framework/gdlr-room-option.php:434
+msgid "View All Branches"
+msgstr ""
+
+#: framework/gdlr-room-option.php:436
+msgid "Select Category to Display"
+msgstr ""
+
+#: framework/gdlr-room-option.php:442
+msgid "Item Column Size"
+msgstr ""
+
+#: framework/gdlr-transaction.php:50 include/authorize-payment.php:30
+#: include/gdlr-booking-item.php:83 include/paymill-payment.php:154
+#: include/paypal-payment.php:94 include/stripe-payment.php:140
+msgid "Thank you for booking the room with us."
+msgstr ""
+
+#: framework/gdlr-transaction.php:75
+msgid "Booking List : Deposit Paid"
+msgstr ""
+
+#: framework/gdlr-transaction.php:78
+msgid "Search Transaction By :"
+msgstr ""
+
+#: framework/gdlr-transaction.php:81 framework/gdlr-transaction.php:137
+msgid "Contact"
+msgstr ""
+
+#: framework/gdlr-transaction.php:82
+msgid "Room ID"
+msgstr ""
+
+#: framework/gdlr-transaction.php:83 framework/gdlr-transaction.php:141
+msgid "Code"
+msgstr ""
+
+#: framework/gdlr-transaction.php:89
+msgid "Hotel Branches :"
+msgstr ""
+
+#: framework/gdlr-transaction.php:92
+msgid "All"
+msgstr ""
+
+#: framework/gdlr-transaction.php:105
+msgid "Keywords :"
+msgstr ""
+
+#: framework/gdlr-transaction.php:107
+msgid "Search!"
+msgstr ""
+
+#: framework/gdlr-transaction.php:114
+msgid "Show new booking"
+msgstr ""
+
+#: framework/gdlr-transaction.php:115
+msgid "Show read booking"
+msgstr ""
+
+#: framework/gdlr-transaction.php:122
+msgid "Bulk Action :"
+msgstr ""
+
+#: framework/gdlr-transaction.php:125 framework/gdlr-transaction.php:219
+msgid "Mark as read"
+msgstr ""
+
+#: framework/gdlr-transaction.php:127 framework/gdlr-transaction.php:221
+msgid "Mark as unread"
+msgstr ""
+
+#: framework/gdlr-transaction.php:130
+msgid "Cancel Booking"
+msgstr ""
+
+#: framework/gdlr-transaction.php:135
+msgid "id"
+msgstr ""
+
+#: framework/gdlr-transaction.php:136
+msgid "Name"
+msgstr ""
+
+#: framework/gdlr-transaction.php:139
+msgid "Payment"
+msgstr ""
+
+#: framework/gdlr-transaction.php:140
+msgid "Type"
+msgstr ""
+
+#: framework/gdlr-transaction.php:142
+msgid "Action"
+msgstr ""
+
+#: framework/gdlr-transaction.php:194 framework/gdlr-transaction.php:195
+#: framework/gdlr-transaction.php:196
+msgid "Detail"
+msgstr ""
+
+#: framework/gdlr-transaction.php:201
+msgid "Booking"
+msgstr ""
+
+#: framework/gdlr-transaction.php:204
+msgid "Full Amount"
+msgstr ""
+
+#: framework/gdlr-transaction.php:206 include/gdlr-reservation-bar.php:131
+#: include/gdlr-reservation-bar.php:158
+msgid "Deposit"
+msgstr ""
+
+#: framework/gdlr-transaction.php:224
+msgid "Mark as paid"
+msgstr ""
+
+#: framework/gdlr-transaction.php:226
+msgid "Mark as booking"
+msgstr ""
+
+#: framework/gdlr-transaction.php:242
+msgid "&lsaquo; Previous"
+msgstr ""
+
+#: framework/gdlr-transaction.php:255
+msgid "Next &rsaquo;"
+msgstr ""
+
+#: framework/gdlr-transaction.php:270
+msgid "Name :"
+msgstr ""
+
+#: framework/gdlr-transaction.php:275
+msgid "Last Name :"
+msgstr ""
+
+#: framework/gdlr-transaction.php:280
+msgid "Email :"
+msgstr ""
+
+#: framework/gdlr-transaction.php:285
+msgid "Phone :"
+msgstr ""
+
+#: framework/gdlr-transaction.php:290
+msgid "Address :"
+msgstr ""
+
+#: framework/gdlr-transaction.php:295
+msgid "Additional Note :"
+msgstr ""
+
+#: framework/gdlr-transaction.php:325
+msgid "Payment Date :"
+msgstr ""
+
+#: framework/gdlr-transaction.php:330
+msgid "Payment Channel :"
+msgstr ""
+
+#: framework/gdlr-transaction.php:335
+msgid "Payment Transaction ID :"
+msgstr ""
+
+#: framework/gdlr-transaction.php:340
+msgid "Pay Amount :"
+msgstr ""
+
+#: framework/gdlr-transaction.php:345
+msgid "Pay on Arrival :"
+msgstr ""
+
+#: framework/gdlr-transaction.php:352
+msgid "Coupon Code :"
+msgstr ""
+
+#: framework/gdlr-transaction.php:375
+msgid "Arrival Date :"
+msgstr ""
+
+#: framework/gdlr-transaction.php:380
+msgid "Check Out Date :"
+msgstr ""
+
+#: framework/gdlr-transaction.php:389
+msgid "Adult :"
+msgstr ""
+
+#: framework/gdlr-transaction.php:390
+msgid "Children :"
+msgstr ""
+
+#: framework/plugin-option.php:9
+msgid "Transaction"
+msgstr ""
+
+#: framework/plugin-option.php:39 framework/plugin-option.php:40
+msgid "Hotel Option"
+msgstr ""
+
+#: framework/plugin-option.php:51
+msgid "General"
+msgstr ""
+
+#: framework/plugin-option.php:56
+msgid "Booking Option"
+msgstr ""
+
+#: framework/plugin-option.php:59
+msgid "Booking Page Slug"
+msgstr ""
+
+#: framework/plugin-option.php:62
+msgid "Please only fill lower case character with no special character here."
+msgstr ""
+
+#: framework/plugin-option.php:65
+msgid "Transaction Per Page"
+msgstr ""
+
+#: framework/plugin-option.php:70
+msgid "Money Display Format"
+msgstr ""
+
+#: framework/plugin-option.php:75
+msgid "Enable Hotel Branch ( Using Category )"
+msgstr ""
+
+#: framework/plugin-option.php:80
+msgid "Preserve The Room After"
+msgstr ""
+
+#: framework/plugin-option.php:83
+msgid "Paid for room"
+msgstr ""
+
+#: framework/plugin-option.php:84
+msgid "Booking for room"
+msgstr ""
+
+#: framework/plugin-option.php:88
+msgid "Vat Amount"
+msgstr ""
+
+#: framework/plugin-option.php:91
+msgid "Input only number ( as percent )"
+msgstr ""
+
+#: framework/plugin-option.php:92 framework/plugin-option.php:106
+msgid "Filling 0 to disable this option out."
+msgstr ""
+
+#: framework/plugin-option.php:95
+msgid "Special Season Date"
+msgstr ""
+
+#: framework/plugin-option.php:98
+msgid ""
+"Fill the date in Y-m-d format. Use * for recurring date separated each date "
+"using comma."
+msgstr ""
+
+#: framework/plugin-option.php:99
+msgid ""
+"Ex. *-12-25 means special season is running every Christmas. 2015-7-* covers "
+"every day on July."
+msgstr ""
+
+#: framework/plugin-option.php:102
+msgid "Deposit Amount"
+msgstr ""
+
+#: framework/plugin-option.php:105
+msgid ""
+"Allow customer to pay part of price for booking the room ( as percent )."
+msgstr ""
+
+#: framework/plugin-option.php:109
+msgid "Payment Method"
+msgstr ""
+
+#: framework/plugin-option.php:112
+msgid "Only Contact Form"
+msgstr ""
+
+#: framework/plugin-option.php:113
+msgid "Include Instant Payment"
+msgstr ""
+
+#: framework/plugin-option.php:117
+msgid "Instant Payment Method"
+msgstr ""
+
+#: framework/plugin-option.php:120
+msgid "Paypal"
+msgstr ""
+
+#: framework/plugin-option.php:121
+msgid "Stripe"
+msgstr ""
+
+#: framework/plugin-option.php:122
+msgid "Paymill"
+msgstr ""
+
+#: framework/plugin-option.php:123
+msgid "Authorize.Net"
+msgstr ""
+
+#: framework/plugin-option.php:126
+msgid "Leaving this field blank will display all available payment method."
+msgstr ""
+
+#: framework/plugin-option.php:129
+msgid "Booking Thumbnail Size"
+msgstr ""
+
+#: framework/plugin-option.php:135
+msgid "Booking Num Fetch"
+msgstr ""
+
+#: framework/plugin-option.php:140
+msgid "Booking Num Excerpt"
+msgstr ""
+
+#: framework/plugin-option.php:148
+msgid "Booking Mail"
+msgstr ""
+
+#: framework/plugin-option.php:151
+msgid "Recipient Name"
+msgstr ""
+
+#: framework/plugin-option.php:155
+msgid "Recipient Email"
+msgstr ""
+
+#: framework/plugin-option.php:159
+msgid "Booking Complete Contact"
+msgstr ""
+
+#: framework/plugin-option.php:163
+msgid "Booking Code Prefix"
+msgstr ""
+
+#: framework/plugin-option.php:174
+msgid "Single Room Thumbnail Size"
+msgstr ""
+
+#: framework/plugin-option.php:183
+msgid "Paypal Info"
+msgstr ""
+
+#: framework/plugin-option.php:186
+msgid "Paypal Recipient Email"
+msgstr ""
+
+#: framework/plugin-option.php:191
+msgid "Paypal Action URL"
+msgstr ""
+
+#: framework/plugin-option.php:196
+msgid "Paypal Currency Code"
+msgstr ""
+
+#: framework/plugin-option.php:204
+msgid "Stripe Info"
+msgstr ""
+
+#: framework/plugin-option.php:207
+msgid "Stripe Secret Key"
+msgstr ""
+
+#: framework/plugin-option.php:211
+msgid "Stripe Publishable Key"
+msgstr ""
+
+#: framework/plugin-option.php:215
+msgid "Stripe Currency Code"
+msgstr ""
+
+#: framework/plugin-option.php:223
+msgid "Paymill Info"
+msgstr ""
+
+#: framework/plugin-option.php:226
+msgid "Paymill Private Key"
+msgstr ""
+
+#: framework/plugin-option.php:230
+msgid "Paymill Public Key"
+msgstr ""
+
+#: framework/plugin-option.php:234
+msgid "Paymill Currency Code"
+msgstr ""
+
+#: framework/plugin-option.php:242
+msgid "Authorize Info"
+msgstr ""
+
+#: framework/plugin-option.php:245
+msgid "Authorize API Login ID "
+msgstr ""
+
+#: framework/plugin-option.php:249
+msgid "Authorize Transaction Key"
+msgstr ""
+
+#: framework/plugin-option.php:253
+msgid "Authorize MD5 Hash"
+msgstr ""
+
+#: gdlr-hotel.php:60
+msgid "Done"
+msgstr ""
+
+#: gdlr-hotel.php:61
+msgid "Today"
+msgstr ""
+
+#: gdlr-hotel.php:64
+msgid "Show a different month"
+msgstr ""
+
+#: include/authorize-payment.php:31 include/gdlr-booking-item.php:84
+#: include/paymill-payment.php:155 include/paypal-payment.php:95
+#: include/stripe-payment.php:141
+msgid "New room booking received"
+msgstr ""
+
+#: include/gdlr-booking-item.php:9
+msgid "1. Choose Date"
+msgstr ""
+
+#: include/gdlr-booking-item.php:10
+msgid "2. Choose Room"
+msgstr ""
+
+#: include/gdlr-booking-item.php:11
+msgid "3. Make a Reservation"
+msgstr ""
+
+#: include/gdlr-booking-item.php:12
+msgid "4. Confirmation"
+msgstr ""
+
+#: include/gdlr-booking-item.php:54
+msgid "Room Selection is Complete"
+msgstr ""
+
+#: include/gdlr-booking-item.php:55
+msgid "You can edit your booking by using the panel on the left"
+msgstr ""
+
+#: include/gdlr-booking-item.php:56
+msgid "Go to next step"
+msgstr ""
+
+#: include/gdlr-booking-item.php:96
+msgid "Room Booking"
+msgstr ""
+
+#: include/gdlr-booking-item.php:208
+msgid "No room available"
+msgstr ""
+
+#: include/gdlr-booking-item.php:241
+msgid "Select this room"
+msgstr ""
+
+#: include/gdlr-booking-item.php:270
+msgid "Name *"
+msgstr ""
+
+#: include/gdlr-booking-item.php:274
+msgid "Last Name *"
+msgstr ""
+
+#: include/gdlr-booking-item.php:279
+msgid "Email *"
+msgstr ""
+
+#: include/gdlr-booking-item.php:283
+msgid "Phone *"
+msgstr ""
+
+#: include/gdlr-booking-item.php:288
+msgid "Address"
+msgstr ""
+
+#: include/gdlr-booking-item.php:292
+msgid "Additional Note"
+msgstr ""
+
+#: include/gdlr-booking-item.php:303
+msgid "Book now by email and we will contact you back."
+msgstr ""
+
+#: include/gdlr-booking-item.php:307
+msgid "Or"
+msgstr ""
+
+#: include/gdlr-booking-item.php:328
+msgid "Pay Now"
+msgstr ""
+
+#: include/gdlr-booking-item.php:348
+msgid "Payment Failed"
+msgstr ""
+
+#: include/gdlr-booking-item.php:359
+msgid "Reservation Completed!"
+msgstr ""
+
+#: include/gdlr-booking-item.php:363
+msgid ""
+"Your reservation details have just been sent to your email. If you have any "
+"question, please don't hesitate to contact us. Thank you!"
+msgstr ""
+
+#: include/gdlr-price-calculation.php:131
+#: include/gdlr-price-calculation.php:133
+#: include/gdlr-price-calculation.php:136
+#: include/gdlr-price-calculation.php:138 include/gdlr-reservation-bar.php:301
+#: include/gdlr-room-item.php:338 include/page-builder-sync.php:80
+msgid "Night"
+msgstr ""
+
+#: include/gdlr-price-calculation.php:132
+#: include/gdlr-price-calculation.php:137
+msgid "(Weekday)"
+msgstr ""
+
+#: include/gdlr-price-calculation.php:134
+#: include/gdlr-price-calculation.php:139
+msgid "(Weekend)"
+msgstr ""
+
+#: include/gdlr-price-calculation.php:142
+#: include/gdlr-price-calculation.php:143
+msgid "Base Price"
+msgstr ""
+
+#: include/gdlr-price-calculation.php:144
+#: include/gdlr-price-calculation.php:145
+msgid "Special Season Base Price"
+msgstr ""
+
+#: include/gdlr-price-calculation.php:146
+#: include/gdlr-price-calculation.php:147 include/gdlr-reservation-bar.php:86
+#: include/gdlr-reservation-bar.php:235
+msgid "Adult"
+msgstr ""
+
+#: include/gdlr-price-calculation.php:148
+#: include/gdlr-price-calculation.php:149
+msgid "Special Season Adult"
+msgstr ""
+
+#: include/gdlr-price-calculation.php:150
+#: include/gdlr-price-calculation.php:151 include/gdlr-reservation-bar.php:87
+#: include/gdlr-reservation-bar.php:236 include/gdlr-reservation-bar.php:336
+#: include/page-builder-sync.php:99
+msgid "Children"
+msgstr ""
+
+#: include/gdlr-price-calculation.php:152
+#: include/gdlr-price-calculation.php:153
+msgid "Special Season Children"
+msgstr ""
+
+#: include/gdlr-price-calculation.php:170 include/gdlr-reservation-bar.php:98
+msgid "Total"
+msgstr ""
+
+#: include/gdlr-price-calculation.php:171
+msgid "*vat is not included yet"
+msgstr ""
+
+#: include/gdlr-reservation-bar.php:13
+msgid "Your Reservation"
+msgstr ""
+
+#: include/gdlr-reservation-bar.php:66
+msgid "Price Breakdown"
+msgstr ""
+
+#: include/gdlr-reservation-bar.php:107
+msgid "Coupon Discount"
+msgstr ""
+
+#: include/gdlr-reservation-bar.php:116
+msgid "Vat"
+msgstr ""
+
+#: include/gdlr-reservation-bar.php:127 include/gdlr-reservation-bar.php:153
+msgid "Grand Total"
+msgstr ""
+
+#: include/gdlr-reservation-bar.php:136
+msgid "Pay Full Amount"
+msgstr ""
+
+#: include/gdlr-reservation-bar.php:137
+msgid "Pay"
+msgstr ""
+
+#: include/gdlr-reservation-bar.php:142 include/gdlr-reservation-bar.php:164
+msgid "*Pay the rest on arrival"
+msgstr ""
+
+#: include/gdlr-reservation-bar.php:147
+msgid "Edit Booking"
+msgstr ""
+
+#: include/gdlr-reservation-bar.php:170
+msgid "Pay on arrival"
+msgstr ""
+
+#: include/gdlr-reservation-bar.php:237
+msgid "Change Room"
+msgstr ""
+
+#: include/gdlr-reservation-bar.php:283 include/page-builder-sync.php:66
+msgid "Hotel Branches"
+msgstr ""
+
+#: include/gdlr-reservation-bar.php:295 include/page-builder-sync.php:74
+msgid "Check In"
+msgstr ""
+
+#: include/gdlr-reservation-bar.php:309 include/page-builder-sync.php:86
+msgid "Check Out"
+msgstr ""
+
+#: include/gdlr-reservation-bar.php:329 include/page-builder-sync.php:92
+msgid "Adults"
+msgstr ""
+
+#: include/gdlr-reservation-bar.php:350 include/gdlr-reservation-bar.php:352
+#: include/page-builder-sync.php:108
+msgid "Check Availability"
+msgstr ""
+
+#: include/gdlr-reservation-bar.php:401
+msgid "Please select hotel branch"
+msgstr ""
+
+#: include/gdlr-reservation-bar.php:407
+msgid "* Please select branch"
+msgstr ""
+
+#: include/gdlr-room-item.php:158 include/gdlr-room-item.php:188
+#: include/gdlr-room-item.php:214 include/gdlr-room-item.php:242
+#: include/gdlr-room-item.php:267
+msgid "Check Details"
+msgstr ""
+
+#: include/gdlr-room-item.php:337
+msgid "Start From"
+msgstr ""
+
+#: include/gdlr-room-item.php:340
+msgid "* view price breakdown"
+msgstr ""
+
+#: include/gdlr-room-item.php:360
+msgid "Max"
+msgstr ""
+
+#: include/gdlr-room-item.php:361
+msgid "People"
+msgstr ""
+
+#: include/gdlr-utility.php:95
+msgid "Please fill all required fields."
+msgstr ""
+
+#: include/gdlr-utility.php:98
+msgid "Email is invalid."
+msgstr ""
+
+#: include/page-builder-sync.php:10
+msgid "Room Availability"
+msgstr ""
+
+#: include/paymill-payment.php:18 include/stripe-payment.php:18
+msgid "Card Number"
+msgstr ""
+
+#: include/paymill-payment.php:24 include/stripe-payment.php:24
+msgid "CVC"
+msgstr ""
+
+#: include/paymill-payment.php:30 include/stripe-payment.php:30
+msgid "Expiration (MM/YYYY)"
+msgstr ""
+
+#: include/paymill-payment.php:37 include/stripe-payment.php:37
+msgid "loading"
+msgstr ""
+
+#: include/paymill-payment.php:39 include/stripe-payment.php:39
+msgid "Submit Payment"
+msgstr ""
+
+#: include/paymill-payment.php:158
+msgid "Payment complete"
+msgstr ""
+
+#: include/paymill-payment.php:166 include/stripe-payment.php:152
+msgid "Failed to proceed, please try again."
+msgstr ""
+
+#: include/stripe-payment.php:144
+msgid "Payment complete."
+msgstr ""
